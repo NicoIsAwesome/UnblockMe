@@ -8,7 +8,7 @@ https://play.google.com/store/apps/details?id=com.kiragames.unblockmefree
 
 
 ### [1] edit the numberList in the unblockMe.py
-
+![alt text](https://github.com/NicoIsAwesome/UnblockMe/blob/main/unblockmefree_1.jpg)
 ```
 numberList = [   0,-2, 2, 0,-2, 0, \
                  0, 0, 2, 0, 0, 0, \
