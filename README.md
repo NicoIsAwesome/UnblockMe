@@ -472,3 +472,4 @@ Note: the index of each brick
  3 = horizontal brick of length 2
  5 = vertical   brick of length 3
 ```
+![alt text](https://github.com/NicoIsAwesome/UnblockMe/blob/main/unblockmefree_2.jpg)
