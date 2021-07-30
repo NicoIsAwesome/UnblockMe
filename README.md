@@ -1,11 +1,10 @@
 # UnblockMe
 
-## Usage
-work with python2
-
 ## Unblock Me FREE Game
 https://play.google.com/store/apps/details?id=com.kiragames.unblockmefree
 
+## Usage
+work with python2
 
 ### [1] edit the numberList in the unblockMe.py
 ![alt text](https://github.com/NicoIsAwesome/UnblockMe/blob/main/unblockmefree_1.jpg)
