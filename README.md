@@ -472,3 +472,8 @@ Note: the index of each brick
  5 = vertical   brick of length 3
 ```
 ![alt text](https://github.com/NicoIsAwesome/UnblockMe/blob/main/unblockmefree_2.jpg)
+
+## Reference
+UC Berkeley CS188 Pacman AI projects
+
+https://github.com/jinhoko/CS188
