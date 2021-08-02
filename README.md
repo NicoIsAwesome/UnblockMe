@@ -7,7 +7,7 @@ https://play.google.com/store/apps/details?id=com.kiragames.unblockmefree
 work with python2
 
 ### [1] edit the numberList in the unblockMe.py
-![alt text](https://github.com/NicoIsAwesome/UnblockMe/blob/main/unblockmefree_1.jpg)
+![alt text](https://github.com/xyth0rn/UnblockMe/blob/main/unblockmefree_1.jpg)
 ```
 numberList = [   0,-2, 2, 0,-2, 0, \
                  0, 0, 2, 0, 0, 0, \
@@ -471,7 +471,7 @@ Note: the index of each brick
  3 = horizontal brick of length 2
  5 = vertical   brick of length 3
 ```
-![alt text](https://github.com/NicoIsAwesome/UnblockMe/blob/main/unblockmefree_2.jpg)
+![alt text](https://github.com/xyth0rn/UnblockMe/blob/main/unblockmefree_2.jpg)
 
 ## Reference
 UC Berkeley CS188 Pacman AI projects
